@@ -1,0 +1,8 @@
+server:
+  port: 2002
+
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/tienda_musica
+    username: root
+    password:
